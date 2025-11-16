@@ -1,16 +1,15 @@
-## Hi there 👋
+#Hi, I'm SaiGanesh Taduri
+**Python Full-Stack Developer FastAPI/Django React SQL REST APIS Docker CI/CD
 
-<!--
-**Saiganesh-debug/Saiganesh-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Current project: **TODO APP** (Auth Django MySQL)
+I write tests with pytest and use Github Actions (CI)
+Learning: caching, async, system design basics
+Portfolio/Linkedin: https://LinkedIn: linkedin.com/in/saiganesh-taduri
 
-Here are some ideas to get you started:
+##Tech
+Python, REST API, Django, React, JavaScript, HTML/CSS, PostgreSQL, Git, Docker, Pytest, GitHub Actions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Projects (Pinned below)
+1. To00 App - Auth, search, tests, CI
+2. School App - Django MySQL async tasks
+3. E-Commerce App - Django REST API React
